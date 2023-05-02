@@ -1,0 +1,19 @@
+{
+  "name": "contact_api",
+  "version": "1.0.0",
+  "description": "this is my first project in node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sufyan-Ahmed-Dev/Contact_API.git"
+  },
+  "author": "Sufyan-Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sufyan-Ahmed-Dev/Contact_API/issues"
+  },
+  "homepage": "https://github.com/Sufyan-Ahmed-Dev/Contact_API#readme"
+}
